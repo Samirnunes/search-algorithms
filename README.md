@@ -1,2 +1,2 @@
-# search-algorithms
+# Search Algorithms
 Applications of search algorithms in interesting optimization problems.
